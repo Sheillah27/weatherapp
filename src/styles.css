@@ -1,0 +1,59 @@
+h1 {
+  line-height: 1;
+  font-weight: 700;
+  font-size: large;
+  position: relative;
+  margin-top: 20px;
+}
+h2,
+h3 {
+  line-height: 1;
+  font-weight: 700;
+  font-size: large;
+  position: relative;
+  margin-top: 10px;
+}
+body {
+  background-color: #f4c4ec;
+}
+.searchbutton {
+  position: absolute;
+  top: 15px;
+  right: 25px;
+  margin-top: 20px;
+}
+.card {
+  position: relative;
+  font-weight: bold;
+  background-color: #f7dff3;
+}
+#fahrenheit {
+  cursor: pointer;
+  text-decoration: none;
+}
+.temp {
+  line-height: 20px;
+  font-weight: 700;
+}
+#unit {
+  text-decoration: none;
+}
+.climate {
+  position: absolute;
+  top: 10px;
+  left: 300px;
+  font-weight: bold;
+}
+.col {
+  font-weight: bolder;
+}
+.percentage {
+  font-weight: 400;
+}
+.signage {
+  text-align: center;
+  font-weight: 600;
+}
+.link {
+  text-decoration: none;
+}
